@@ -1,0 +1,5 @@
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\publish\TCPChat.exe
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\publish\TCPChat.dll
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\publish\TCPChat.deps.json
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\publish\TCPChat.runtimeconfig.json
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\publish\TCPChat.pdb

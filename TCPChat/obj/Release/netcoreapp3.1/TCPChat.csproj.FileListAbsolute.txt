@@ -1,0 +1,14 @@
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\TCPChat.exe
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\TCPChat.deps.json
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\TCPChat.runtimeconfig.json
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\TCPChat.runtimeconfig.dev.json
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\TCPChat.dll
+C:\Users\Shido\source\repos\TCPChat\TCPChat\bin\Release\netcoreapp3.1\TCPChat.pdb
+C:\Users\Shido\source\repos\TCPChat\TCPChat\obj\Release\netcoreapp3.1\TCPChat.csproj.AssemblyReference.cache
+C:\Users\Shido\source\repos\TCPChat\TCPChat\obj\Release\netcoreapp3.1\TCPChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shido\source\repos\TCPChat\TCPChat\obj\Release\netcoreapp3.1\TCPChat.AssemblyInfoInputs.cache
+C:\Users\Shido\source\repos\TCPChat\TCPChat\obj\Release\netcoreapp3.1\TCPChat.AssemblyInfo.cs
+C:\Users\Shido\source\repos\TCPChat\TCPChat\obj\Release\netcoreapp3.1\TCPChat.csproj.CoreCompileInputs.cache
+C:\Users\Shido\source\repos\TCPChat\TCPChat\obj\Release\netcoreapp3.1\TCPChat.dll
+C:\Users\Shido\source\repos\TCPChat\TCPChat\obj\Release\netcoreapp3.1\TCPChat.pdb
+C:\Users\Shido\source\repos\TCPChat\TCPChat\obj\Release\netcoreapp3.1\TCPChat.genruntimeconfig.cache
